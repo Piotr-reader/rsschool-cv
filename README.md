@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Piotr-reader.github.io/rsschool-cv/cv
+https://piotr-reader.github.io/rsschool-cv/README.md
