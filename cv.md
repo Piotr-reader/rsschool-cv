@@ -15,5 +15,5 @@
 ###### Tools: GIT, VS Code.
 ---
 ## `Education`
-######Institute of management and entrepreneurship.Minsk. Belarus. 2002-2006.
-######Management. Human resources.
+###### Institute of management and entrepreneurship.Minsk. Belarus. 2002-2006.
+###### Management. Human resources.
