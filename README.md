@@ -16,7 +16,7 @@ https://piotr-reader.github.io/rsschool-cv/cv.md
 ###### Programming languages and technologies: JavaScript, HTML, CSS/SCSS.
 ###### Programming practices: Agile, Kanban, Scrum.
 ###### Frameworks and Libraries: React, Less.
-###### Tools: GIT, VS Code.
+###### Tools: GIT, VScode.
 ---
 ## `Education`
 ###### Institute of management and entrepreneurship.Minsk. Belarus. 2002-2006.
