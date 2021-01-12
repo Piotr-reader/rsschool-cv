@@ -1,7 +1,3 @@
-# rsschool-cv
-
-
-https://piotr-reader.github.io/rsschool-cv/cv.md
  
 # Piotr Partsianko
 ##### Telephone number: +375292183151
@@ -10,7 +6,7 @@ https://piotr-reader.github.io/rsschool-cv/cv.md
 ##### English: *Intermediate (B1).*
 ---
 ## `Summary of Qualifications`
-###### Start programming at 2019. Novice frontend-developer. Knowledge of HTML, CSS/SCSS,  JavaScript, React. 
+###### Start programming at 2019. Novice frontend-developer. Knowledge of HTML, CSS/SCSS, JavaScript, React. 
 ---
 ## `Technical Skills`
 ###### Programming languages and technologies: JavaScript, HTML, CSS/SCSS.
