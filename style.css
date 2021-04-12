@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     font-size: 62.5%;
   }
@@ -105,3 +106,48 @@
       margin: 0 auto;
     }
   }
+=======
+body {
+    text-align: center;
+}
+img {
+    float: right;
+    width: 6rem;
+    margin: auto;
+}
+div {
+    display: block;
+    text-align: left;
+    width: 60%;
+    background: #F1F3F4;
+    border: 2px solid #E7EAED;
+    padding: 1rem;
+    margin: auto;
+}
+section {
+    margin-top: 15px;
+}
+h1,
+h3,
+p {
+    padding-left: 40px;
+    margin: 0;
+}
+h5 {
+    padding-left: 40px;
+    margin-bottom: 0;
+}
+a {
+    text-decoration: none;
+}
+ol {
+    list-style-type: none;
+}
+ul {
+    padding-left: 65px;
+    margin-top: 0;
+}
+footer {
+    font-size: 10px;
+}
+>>>>>>> 6b6886f80cddf8f7811231872b0b93291941419a
