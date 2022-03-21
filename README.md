@@ -1,1 +1,1 @@
-3. Deploy: https://piotr-reader.github.io/rsschool-cv/
+ https://piotr-reader.github.io/rsschool-cv/
