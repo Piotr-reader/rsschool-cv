@@ -96,12 +96,15 @@ a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 0;
+    align-items: center;
   }
   .header,
   .footer {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
   }
   h1 {
     margin: 0 auto;
@@ -130,7 +133,7 @@ section {
 h1,
 h3,
 p {
-  padding-left: 40px;
+  padding: 0 20px;
   margin: 0;
 }
 h5 {
@@ -144,9 +147,10 @@ ol {
   list-style-type: none;
 }
 ul {
-  padding-left: 65px;
+  padding-left: 40px;
   margin-top: 0;
 }
 footer {
   font-size: 10px;
+  margin-bottom: 25px;
 }
