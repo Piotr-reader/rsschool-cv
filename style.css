@@ -18,13 +18,15 @@
     font-family: "Roboto Slab", Arial, serif;
   }
 
-  .header,
-  .footer {
+  .header {
     display: flex;
     justify-content: space-between;
     margin-top: 1rem;
   }
-
+  .footer {
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
   .avatar {
     width: 17rem;
     height: 18rem;
@@ -33,7 +35,11 @@
       -15px 0 10px -15px rgba(0, 0, 0, 0.6), 15px 0 10px -15px rgba(0, 0, 0, 0.6),
       inset 0 0 40px rgba(0, 0, 0, 0.1);
   }
-
+.courses-item,
+.skills-info {
+  margin: 10px 0;
+  padding-left: 0;
+}
   .person-img > img {
     margin-left: 5px;
     margin-bottom: 1.5rem;
